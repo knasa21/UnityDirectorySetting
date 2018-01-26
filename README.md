@@ -5,7 +5,7 @@ Windows用UnityAssets以下ディレクトリの作成+gitignore配置するWind
 1. Unityの新規プロジェクトを作成
 2. Edit->Project Settings->EditorでVersion ControlをVisible Meta Filesに変更
 +(多分平気)Asset SerializationをForce Textに変更
-3. プロジェクトのフォルダ(Assetsの親)を"Project directory D and D in this file.bat"にドラッグ＆ドロップ
+3. プロジェクトのフォルダ(Assetsの親)を"Project folder D and D in this file.bat"にドラッグ＆ドロップ
 
 以上でAssets以下にプロジェクト名と同じディレクトリが作成され、その中にsetting/directory.txtに書かれたディレクトリが作成される+プロジェクトディレクトリ以下に.gitignoreが作成
 
