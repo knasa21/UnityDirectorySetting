@@ -1,0 +1,13 @@
+Scenes
+Preafabs
+Scripts
+Animations
+Materials
+Shaders
+Physics Materials
+Fonts
+Textures
+Audio
+Resources
+Editor
+Plugins
